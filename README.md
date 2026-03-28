@@ -1,11 +1,14 @@
-# Predicting-ecommerce-customers-device-usage
+# Predicting E-commerce Customer Device Usage
 
-## About
-In the `data.csv` file we have data about the customers in coloumns as `email` `address` , `Avg Session length` , `time on app` , `time on website` , `length of membership` etc. 
-Using data exploration and linear regression we try to predict whether the company should prioritize to devote resources towards further development of the mobile application or the website first at hand. 
-This prediction would help the company to satisfy the majority of it's users whilst investing minimum resources. 
+A machine learning project that uses linear regression and other statistical methods to predict user behavior and device preferences in the e-commerce sector.
 
-## In the repository
+## Model Highlights
 
-Download the `data.csv` file and place it in a directory. 
-Create a jupyter notebook in the same directory and follow along my `ipynb notebook` in this repository to perform the data exploration and implement a linear regression model on it using scikit learn. 
+- **Predictive Goal**: Identifying which device a customer is most likely to use for purchasing.
+- **Algorithm**: Linear Regression (implemented in `regression model.ipynb`).
+- **Data Insights**: Visualizations and analysis of customer demographic and behavior data.
+
+## Technologies Used
+
+- Python (Jupyter Notebook)
+- Pandas, Scikit-learn, Seaborn for data analysis and visualization.
